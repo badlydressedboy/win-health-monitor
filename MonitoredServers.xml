@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServerList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <Server Name="example-server-1">
+    
+    <Drive Letter="C:" MinimumGb="3"/>
+    <Drive Letter="D:" MinimumGb="3"/>
+    <Drive Letter="E:" MinimumGb="20"/>
+    <Drive Letter="F:" MinimumGb="20"/>
+    <Drive Letter="K:" MinimumGb="20"/>
+    <Drive Letter="L:" MinimumGb="20"/>
+    <Drive Letter="T:" MinimumGb="20"/>
+  
+  </Server>
+
+  <Server Name="example-server-2">
+
+    <Drive Letter="C:" MinimumGb="3"/>
+    <Drive Letter="D:" MinimumGb="5"/>
+    <Drive Letter="F:" MinimumGb="20"/>
+  
+  </Server>
+
+  
+</ServerList>

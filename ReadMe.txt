@@ -1,8 +1,4 @@
-# win-health-monitor
-Windows program to check health of multiple windows installations
-
-# Use
-Use MonitoredServers.xml to specify drives and free space thresholds
+﻿Use MonitoredServers.xml to specify drives and free space thresholds
 
 Use ServerHealthCheck.exe.config to setup email
 
