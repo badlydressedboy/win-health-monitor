@@ -2,6 +2,8 @@
 Windows program to check health of multiple windows installations
 
 # Use
+Either run the .exe directly for results in console or call it in a scheduled job to monitor unlimited Windows installations and be alerted by email if CPU or free disk soace are over thresholds.
+
 Use MonitoredServers.xml to specify drives and free space thresholds
 
 Use ServerHealthCheck.exe.config to setup email
